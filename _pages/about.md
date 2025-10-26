@@ -6,7 +6,7 @@ subtitle: PhD student at <a href="https://www.greyc.fr/" target="_blank">GREYC L
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>123 your address street</p>
