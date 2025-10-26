@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: You will find below some of the repositories I am (or was) working on, as well as the library Higra which I frequently use.
 nav: true
 nav_order: 4
