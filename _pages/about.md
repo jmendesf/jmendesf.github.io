@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student at <a href="https://www.greyc.fr/" target="_blank">GREYC Laboratory</a>'.
+subtitle: PhD student at <a href="https://www.greyc.fr/" target="_blank">GREYC Laboratory</a>, supervised by <a href="https://kenmochi.users.greyc.fr/" target="_blank">Dr. Yukiko Kenmochi</a>.
 
 profile:
   align: right
   image: prof_pic.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Building F, ENSICAEN, 14000 Caen, France</p>
+    <p>julien.mendes-forte@unicaen.fr</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -26,6 +26,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-test about test 
+I am a PhD student at the GREYC laboratory, where I am part of the [Image team](https://www.greyc.fr/equipes/image/).
+My current research focuses on mathematical morphology, with a particular interest in partial partition trees and image descriptors. 
+More broadly, my research interest include mathematical morphology, digital geometry and digital topology. 
 
-# test
+My doctoral thesis, titled “Partial Partition Trees: Unified Framework, Topological Modelling, and Connected Operators,” aims to study several hierarchical image descriptors from mathematical morphology, with a particular interest for the descripton of the topology of images.
+These structures includes, but is not limited to, the tree of shapes, the complete tree of shapes, and the topological tree of shapes.
+
+More recently, I started preliminary research on defining a topological distance between these structures. 
+Moreover, I am investigating how these structures can be integrated into deep learning frameworks, with the aim of improving the topological consistency of the models.
