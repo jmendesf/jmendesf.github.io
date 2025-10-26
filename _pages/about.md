@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student at [GREYC Laboratory](https://www.greyc.fr/).
+subtitle: PhD student at <a href="https://www.greyc.fr/" target="_blank">GREYC Laboratory</a>'.
 
 profile:
   align: right
