@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD student at <a href="https://www.greyc.fr/" target="_blank">GREYC Laboratory</a>, supervised by <a href="https://kenmochi.users.greyc.fr/" target="_blank">Dr. Yukiko Kenmochi</a>.
 
