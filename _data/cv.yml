@@ -1,87 +1,66 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD 
-      institution: Université de Caen Normandie, GREYC Laboratory
-      year: 2022 - 2025 
+    - title: PhD student
+      institution: Université de Caen Normandie, GREYC Laboratory. Funded by the Normandy region.
+      year: 2022 - now 
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Master's degree
+        - *Keywords:* Mathematical morphology, connected operators, gray-level images, partial partition hierarchies, image filtering.
+        - *Achieved work:* Theoretical definition of a hierarchical arborescent image descriptor called Topological Tree of shapes. Definition of its algorithmic construction. Definition of modelpreserving simplification method for the Tree of Shapes. Design of connected operators based on the Topological Tree of Shapes.
+        - *Future works:* Application to medical image segmentation neural networks to avoid topological errors in the resulting images
+    - title: Master's degree, Computer Science
       institution: Université Gustave Eiffel, Champs-sur-Marne, France
       year: 2017 - 2019
       description:
-        - Description 1.
-        - Description 2.
+        - *Specialisation:* Image science.
+        - Computer generated imagery, discrete geometry, discrete topology, mathematical morphology, embedded software, C++, Python, Java.
+    - title: Bachelor's degree, Computer Science
+          institution: Université Gustave Eiffel, Champs-sur-Marne, France
+          year: 2014 - 2017
+          description:
+            - C, assembly, Turing machine (automata theory), graph theory (flow networks), PostgreSQL
 
-- title: Experience
+- title: Professional Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Software engineer
+      institution: Infass Systèmes, Montgeron, France
+      year: 2021 - 2022 (18 months)
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Large data management, algorithmic optimization, object-oriented programming, database, human-machine interface.
+    - title: Application to several image science related thesis topics
+      institution: SURYS, France - LIGM, France
+      year: 2020
+    - title: Analysis, implementation and comparison of various binary image rotation algorithms (Master's degree internship)
+      institution: LIGM - ESIEE Paris, France.
+      year: 2019 (4 months)
+      description: 
+        - Implementation of binary image rotation algorithms in two and three dimensions. Analysis of the results and evaluation of the induced topological errors based on topological criteria, allowing the comparison of these algorithms
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Research Visits
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Visiting Researcher, Shimizu Laboratory, Tokyo University of Agriculture and Technology (TUAT), Koganei, Japan. Erasmus+ funding.
+      year: 2024 (3 months)
+      description: Research on partial partition hierarchies applied to medical imaging in collaboration with Prof. Akinobu Shimizu. Research on the definition of a distance between partial partition hierarchies, in particular the Tree of Shapes and the Topological Tree of Shapes.
 
-- title: Honors and Awards
+- title: Research Visits
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Discrete Geometry
+      year: 2024 - 2025
+      description: Teaching assistant for discrete geometry laboratory sessions (M2 level).
+    - title: Industrial project supervision
+      year: 2024 - 2025
+      description: Supervision of Master student’s project on the graph representation of 3D CT images.
+    - title: C Programming Language
+      year: 2023 - 2024
+      description: Teaching to first year DUT students. Evaluation of the students skills through exams and frequent tests throughout the semester.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+        
+- title: Technical Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+  - <u>Programming:</u> C++, Java, Python, C, Perl.
+  - <u>Tools:</u>
+  - <u>Languages:</u> French (native), English (fluent), Japanese (N4-N3 level).
