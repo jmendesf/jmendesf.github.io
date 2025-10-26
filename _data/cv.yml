@@ -15,10 +15,10 @@
         - *Specialisation:* Image science.
         - Computer generated imagery, discrete geometry, discrete topology, mathematical morphology, embedded software, C++, Python, Java.
     - title: Bachelor's degree, Computer Science
-          institution: Université Gustave Eiffel, Champs-sur-Marne, France
-          year: 2014 - 2017
-          description:
-            - C, assembly, Turing machine (automata theory), graph theory (flow networks), PostgreSQL
+      institution: Université Gustave Eiffel, Champs-sur-Marne, France
+      year: 2014 - 2017
+      description:
+        - C, assembly, Turing machine (automata theory), graph theory (flow networks), PostgreSQL
 
 - title: Professional Experience
   type: time_table
@@ -44,7 +44,7 @@
       year: 2024 (3 months)
       description: Research on partial partition hierarchies applied to medical imaging in collaboration with Prof. Akinobu Shimizu. Research on the definition of a distance between partial partition hierarchies, in particular the Tree of Shapes and the Topological Tree of Shapes.
 
-- title: Research Visits
+- title: Teaching Experience
   type: time_table
   contents:
     - title: Discrete Geometry
@@ -62,5 +62,5 @@
   type: list
   contents:
   - <u>Programming:</u> C++, Java, Python, C, Perl.
-  - <u>Tools:</u>
+  - <u>Tools:</u>Git, Linux, OpenCV, Higra, Numpy, OpenGL, Gprof, SQL, CLion, Pycharm, IntelliJ IDEA.
   - <u>Languages:</u> French (native), English (fluent), Japanese (N4-N3 level).
