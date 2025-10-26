@@ -3,7 +3,7 @@
   contents:
     - title: PhD student
       institution: Université de Caen Normandie, GREYC Laboratory. Funded by the Normandy region.
-      year: 2022 - now 
+      year: 2022 - 2025
       description:
         - *Keywords:* Mathematical morphology, connected operators, gray-level images, partial partition hierarchies, image filtering.
         - *Achieved work:* Theoretical definition of a hierarchical arborescent image descriptor called Topological Tree of shapes. Definition of its algorithmic construction. Definition of modelpreserving simplification method for the Tree of Shapes. Design of connected operators based on the Topological Tree of Shapes.
@@ -25,7 +25,7 @@
   contents:
     - title: Software engineer
       institution: Infass Systèmes, Montgeron, France
-      year: 2021 - 2022 (18 months)
+      year: 2021 - 2022 
       description:
         - Large data management, algorithmic optimization, object-oriented programming, database, human-machine interface.
     - title: Application to several image science related thesis topics
@@ -33,7 +33,7 @@
       year: 2020
     - title: Analysis, implementation and comparison of various binary image rotation algorithms (Master's degree internship)
       institution: LIGM - ESIEE Paris, France.
-      year: 2019 (4 months)
+      year: 2019 
       description: 
         - Implementation of binary image rotation algorithms in two and three dimensions. Analysis of the results and evaluation of the induced topological errors based on topological criteria, allowing the comparison of these algorithms
 
@@ -41,7 +41,7 @@
   type: time_table
   contents:
     - title: Visiting Researcher, Shimizu Laboratory, Tokyo University of Agriculture and Technology (TUAT), Koganei, Japan. Erasmus+ funding.
-      year: 2024 (3 months)
+      year: 2024 
       description: Research on partial partition hierarchies applied to medical imaging in collaboration with Prof. Akinobu Shimizu. Research on the definition of a distance between partial partition hierarchies, in particular the Tree of Shapes and the Topological Tree of Shapes.
 
 - title: Teaching Experience
@@ -58,9 +58,9 @@
       description: Teaching to first year DUT students. Evaluation of the students skills through exams and frequent tests throughout the semester.
 
         
-- title: Technical Skills
-  type: list
-  contents:
-  - <u>Programming:</u> C++, Java, Python, C, Perl.
-  - <u>Tools:</u>Git, Linux, OpenCV, Higra, Numpy, OpenGL, Gprof, SQL, CLion, Pycharm, IntelliJ IDEA.
-  - <u>Languages:</u> French (native), English (fluent), Japanese (N4-N3 level).
+#- title: Technical Skills
+  #type: list
+  #contents:
+  #- <u>Programming:</u> C++, Java, Python, C, Perl.
+  #- <u>Tools:</u>Git, Linux, OpenCV, Higra, Numpy, OpenGL, Gprof, SQL, CLion, Pycharm, IntelliJ IDEA.
+  #- <u>Languages:</u> French (native), English (fluent), Japanese (N4-N3 level).
