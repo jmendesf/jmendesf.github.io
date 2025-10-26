@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:PhD student at [GREYC Laboratory](https://www.greyc.fr/).
+subtitle: PhD student at [GREYC Laboratory](https://www.greyc.fr/).
 
 profile:
   align: right
