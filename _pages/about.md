@@ -9,8 +9,8 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Building F, ENSICAEN</p>
-    <p>Caen, France</p>
+    <p>GREYC Laboratory, ENSICAEN, Building F </p>
+    <p>14000 Caen, France</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
