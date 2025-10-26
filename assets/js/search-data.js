@@ -17,14 +17,14 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-repositories",
-          title: "repositories",
+          title: "Repositories",
           description: "You will find below some of the repositories I am (or was) working on, as well as the library Higra which I frequently use.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "Alternatively, you can download a pdf version of my CV by clicking on the icon above.",
           section: "Navigation",
           handler: () => {
