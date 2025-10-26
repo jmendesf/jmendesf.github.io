@@ -5,15 +5,15 @@
        institution: Université de Caen Normandie, GREYC Laboratory. Funded by the Normandy region.
        year: 2022 - 2025
        description:
-         - **Keywords:** Mathematical morphology, connected operators, gray-level images, partial partition hierarchies, image filtering.
-         - **Achieved work:** Theoretical definition of a hierarchical arborescent image descriptor called Topological Tree of shapes. Definition of its algorithmic construction. Definition of modelpreserving simplification method for the Tree of Shapes. Design of connected operators based on the Topological Tree of Shapes.
-         - **Future works:** Application to medical image segmentation neural networks to avoid topological errors in the resulting images
+         - <b>Keywords:</b> Mathematical morphology, connected operators, gray-level images, partial partition hierarchies, image filtering.
+         - <b>Achieved work:</b> Theoretical definition of a hierarchical arborescent image descriptor called Topological Tree of shapes. Definition of its algorithmic construction. Definition of modelpreserving simplification method for the Tree of Shapes. Design of connected operators based on the Topological Tree of Shapes.
+         - <b>Future works:</b> Application to medical image segmentation neural networks to avoid topological errors in the resulting images
 
      - title: Master's degree, Computer Science
        institution: Université Gustave Eiffel, Champs-sur-Marne, France
        year: 2017 - 2019
        description:
-         - **Specialisation:** Image science.
+         - <b>Specialisation:</b> Image science.
          - Computer generated imagery, discrete geometry, discrete topology, mathematical morphology, embedded software, C++, Python, Java.
      - title: Bachelor's degree, Computer Science
        institution: Université Gustave Eiffel, Champs-sur-Marne, France
@@ -61,6 +61,6 @@
  - title: Technical Skills
    type: list
    contents:
-   - **Programming:** C++, Java, Python, C, Perl.
-   - **Tools:** Git, Linux, OpenCV, Higra, Numpy, OpenGL, Gprof, SQL, CLion, Pycharm.
-   - **Languages:** French (native), English (fluent), Japanese (N4-N3 level).
+   - <b>Programming:</b> C++, Java, Python, C, Perl.
+   - <b>Tools:</b> Git, Linux, OpenCV, Higra, Numpy, OpenGL, Gprof, SQL, CLion, Pycharm.
+   - <b>Languages:</b> French (native), English (fluent), Japanese (N4-N3 level).
