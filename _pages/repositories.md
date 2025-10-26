@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: You will find below some of the repositories I am (or was) working on, as well as the library Higra which I frequently use.
 nav: true
 nav_order: 4
 ---
