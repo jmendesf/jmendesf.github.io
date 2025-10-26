@@ -31,8 +31,8 @@ My current research focuses on mathematical morphology, with a particular intere
 
 More broadly, my research interest include **mathematical morphology**, **digital geometry** and **digital topology**. 
 
-My doctoral thesis, titled "_Partial Partition Trees: Unified Framework, Topological Modelling, and Connected Operators_",  aims to study several hierarchical image descriptors from mathematical morphology, with a particular interest for the descripton of the topology of images.
-These structures includes, but is not limited to, the tree of shapes, the complete tree of shapes, and the topological tree of shapes.
+My doctoral thesis, titled "_Partial Partition Trees: Unified Framework, Topological Modelling, and Connected Operators_",  aims to study several hierarchical image descriptors from mathematical morphology, with a particular interest for the description of the topology of images.
+These structures includes, but are not limited to, the tree of shapes, the complete tree of shapes, and the topological tree of shapes.
 
 More recently, I started preliminary research on defining a topological distance between these structures. 
 Moreover, I am investigating how these structures can be integrated into deep learning frameworks, with the aim of improving the topological consistency of the models.
