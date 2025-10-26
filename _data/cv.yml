@@ -1,24 +1,24 @@
-# - title: Education
-#   type: time_table
-#   contents:
-#     - title: PhD student
-#       institution: Université de Caen Normandie, GREYC Laboratory. Funded by the Normandy region.
-#       year: 2022 - 2025
-#       description:
-#         - *Keywords:* Mathematical morphology, connected operators, gray-level images, partial partition hierarchies, image filtering.
-#         - *Achieved work:* Theoretical definition of a hierarchical arborescent image descriptor called Topological Tree of shapes. Definition of its algorithmic construction. Definition of modelpreserving simplification method for the Tree of Shapes. Design of connected operators based on the Topological Tree of Shapes.
-#         - *Future works:* Application to medical image segmentation neural networks to avoid topological errors in the resulting images
-#     - title: Master's degree, Computer Science
-#       institution: Université Gustave Eiffel, Champs-sur-Marne, France
-#       year: 2017 - 2019
-#       description:
-#         - *Specialisation:* Image science.
-#         - Computer generated imagery, discrete geometry, discrete topology, mathematical morphology, embedded software, C++, Python, Java.
-#     - title: Bachelor's degree, Computer Science
-#       institution: Université Gustave Eiffel, Champs-sur-Marne, France
-#       year: 2014 - 2017
-#       description:
-#         - C, assembly, Turing machine (automata theory), graph theory (flow networks), PostgreSQL
+ - title: Education
+   type: time_table
+   contents:
+     - title: PhD student
+       institution: Université de Caen Normandie, GREYC Laboratory. Funded by the Normandy region.
+       year: 2022 - 2025
+       description:
+         - *Keywords:* Mathematical morphology, connected operators, gray-level images, partial partition hierarchies, image filtering.
+         - *Achieved work:* Theoretical definition of a hierarchical arborescent image descriptor called Topological Tree of shapes. Definition of its algorithmic construction. Definition of modelpreserving simplification method for the Tree of Shapes. Design of connected operators based on the Topological Tree of Shapes.
+         - *Future works:* Application to medical image segmentation neural networks to avoid topological errors in the resulting images
+     - title: Master's degree, Computer Science
+       institution: Université Gustave Eiffel, Champs-sur-Marne, France
+       year: 2017 - 2019
+       description:
+         - *Specialisation:* Image science.
+         - Computer generated imagery, discrete geometry, discrete topology, mathematical morphology, embedded software, C++, Python, Java.
+     - title: Bachelor's degree, Computer Science
+       institution: Université Gustave Eiffel, Champs-sur-Marne, France
+       year: 2014 - 2017
+       description:
+         - C, assembly, Turing machine (automata theory), graph theory (flow networks), PostgreSQL
 
 # - title: Professional Experience
 #   type: time_table
