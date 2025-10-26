@@ -27,7 +27,7 @@ latest_posts:
 ---
 
 I am a PhD student at the GREYC laboratory, where I am part of the [Image team](https://www.greyc.fr/equipes/image/).
-My current research focuses on mathematical morphology, with a particular interest in partial partition trees and image descriptors. 
+My current research focuses on mathematical morphology, with a particular interest in partial partition trees and image descriptors in general. 
 
 More broadly, my research interest include **mathematical morphology**, **digital geometry** and **digital topology**. 
 
