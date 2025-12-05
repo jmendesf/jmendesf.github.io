@@ -2,15 +2,15 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD student at <a href="https://www.greyc.fr/" target="_blank">GREYC Laboratory</a>, supervised by <a href="https://kenmochi.users.greyc.fr/" target="_blank">Dr. Yukiko Kenmochi</a>.
+subtitle: Post-doctoral fellow at <a href="[https://crestic.univ-reims.fr/fr/accueil]" target="_blank">CRESTIC Laboratory</a>, supervised by <a href="[https://crestic.univ-reims.fr/fr/nicolas.passat]" target="_blank">Pr. Nicolas Passat</a>.
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>GREYC Laboratory, ENSICAEN, Building F </p>
-    <p>14000 Caen, France</p>
+    <p>CRESTIC Laboratory, UFR Sciences Exactes et Naturelles </p>
+    <p>51100 Reims, France</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,12 +26,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student at the GREYC laboratory, where I am part of the [Image team](https://www.greyc.fr/equipes/image/).
+I am a Post-doctoral fellow at the CRESTIC laboratory in Reims, France. My thesis was defended in November 2025.
 My current research focuses on mathematical morphology, with a particular interest in partial partition trees and image descriptors in general. 
 
-More broadly, my research interest include **mathematical morphology**, **digital geometry** and **digital topology**. 
+More broadly, my research interest include **mathematical morphology**, **digital geometry** and **digital topology**, and recently **deep neural architectures for medical imaging**. 
 
-My PhD thesis, titled "_Partial Partition Trees: Unified Framework, Topological Modelling, and Connected Operators_",  aims to study several hierarchical image descriptors from mathematical morphology, with a particular interest for the description of the topology of images.
+My PhD thesis, titled "_Partial Partition Trees: Unified Framework, Topological Modelling, and Connected Operators_",  amied at studying several hierarchical image descriptors from mathematical morphology, with a particular interest for the description of the topology of images.
 These structures includes, but are not limited to, the tree of shapes, the complete tree of shapes, and the topological tree of shapes.
 
 More recently, I started preliminary research on defining a topological distance between these structures. 
