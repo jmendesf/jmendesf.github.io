@@ -3,13 +3,13 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Julien
+first_name: Dr. Julien
 middle_name: 
 last_name: Mendes Forte
 contact_note: >
-  julien.mendes-forte@unicaen.fr
+  julien.mendes-forte@univ-reims.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Currently PhD student at GREYC Laboratory, Caen, France.
+  Post-doctoral fellow at CRESTIC Laboratory, Reims, France.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
